@@ -19,7 +19,7 @@
     "parsecDeb": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-8Wkbo6l1NGBPX2QMJszq+u9nLM96tu7WYRTQq6/CzM8=",
+        "narHash": "sha256-+sNEGgb2wARM8JDf3Gdzk+N/IFNERlEQJFROGQGP8XE=",
         "type": "file",
         "url": "https://builds.parsecgaming.com/package/parsec-linux.deb"
       },
